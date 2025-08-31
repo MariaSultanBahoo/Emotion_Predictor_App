@@ -1,6 +1,3 @@
-Here’s a properly formatted and polished version of your **README.md** for the **Emotion Prediction App** 👇
-
----
 
 # Emotion Prediction App
 
@@ -77,8 +74,6 @@ Follow these steps to set up and run the project locally or in a cloud environme
 Input: "I just got a new job and I’m so happy!"
 Prediction: Joy (Confidence: 0.97)
 ```
-
----
 
 
 Do you also want me to make a **Google Colab usage section** (so you can run the whole app in Colab with `!pip install`, `streamlit`, and `cloudflared` directly)? That could make it easier for others to try it without local setup.
